@@ -7,7 +7,7 @@
 
 🤖 I’m interested in **AI Infra** (training & inference frameworks), **LLM agents**, and **multimodal LLMs**
 
-🥈 Silver Medalist, 48th ICPC Asia East Continent Final Contest
+🥈 **Silver Medalist**, 48th ICPC Asia East Continent Final Contest
 
 ## Stats
 
