@@ -9,3 +9,6 @@
 
 🥈 Silver Medalist, 48th ICPC Asia East Continent Final Contest
 
+## Stats
+
+![Stats](./profile/stats.svg)
